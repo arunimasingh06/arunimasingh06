@@ -6,7 +6,7 @@
 
 <h3 align="center">Languages & Tools I Work With</h3>
 <p align="center">
-  <hr width="60%">
+  <hr width="100%">
 </p>
 
 <p align="center">
