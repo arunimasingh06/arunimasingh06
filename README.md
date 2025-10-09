@@ -10,6 +10,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?size=30&width=500&lines=Hello%20There!+I'm%20Arunima" alt="Typing SVG">
+  </a>
+</p>
+
+
 
 <h3 align="center">Languages & Tools I Work With</h3>
 <p align="center">
