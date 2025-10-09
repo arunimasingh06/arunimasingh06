@@ -4,11 +4,15 @@
   </a>
 </p>
 
+<h3 align="center">Languages & Tools I Work With</h3>
+<p align="center">──────────────────────────────</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,python,c,html,css,react,mongodb,express,nodejs,figma" />
+    <img src="https://skillicons.dev/icons?i=java,js,python,c,html,css,react,mongodb,express,nodejs,figma" width="400" />
   </a>
 </p>
+
 
 
 
